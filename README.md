@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/0300hrs/Article-preview-component)
+- Live Site URL: [Github Pages](https://0300hrs.github.io/Article-preview-component/)
 
 ### Built with
 
@@ -46,6 +46,6 @@ Getting my Javascript DOM manipulation skills down would be beneficial in coding
 
 ## Author
 
-- Website - [Abdulmalik](https://www.your-site.com)
+- Website - [Abdulmalik](https://0300hrs.github.io/personal-portfolio/)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/0300hrs)
 - Twitter - [@day_by_friday](https://www.twitter.com/day_by_friday)

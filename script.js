@@ -1,17 +1,12 @@
-let mobileModal = document.getElementsByClassName("mobile-after");
-let desktopModal = document.querySelector("after");
-let profile = document.querySelector("profile");
-let toggle = document.getElementById("share");
+function showOption() {
+  const profile = document.querySelector(".profile");
+  const after = document.querySelector(".after");
+  const mobileAfter = document.querySelector(".mobile-after");
 
-// toggle.addEventListener("click", () => {
-//   alert("I've been clicked");
-//   console.log("Ive been clicked");
-// });
-
-toggle.addEventListener("click", () => {
-  if (window.innerWidth > 1024) {
-    console.log("Scree width is greater than 1024");
+  if (window.innerWidth > 765) {
+    after.classList.toggle("not-active");
   } else {
-    console.log("Scree width is less than 1024");
+    mobileAfter.classList.toggle("not-active");
+    profile.classList.toggle("not-active");
   }
-});
+}
